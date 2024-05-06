@@ -69,11 +69,11 @@ def q_learning(env,
 ### Optimal Action Value Functions:
 ![280708375-6c005638-0f8a-4138-9efb-bbe9af73b54e](https://github.com/charansai0/q-learning/assets/94296221/a0ec0619-c29a-4124-b04c-56c258c79071)
 ### State value functions of Monte Carlo method:
-![image](https://github.com/Sucharithachowdary/q-learning/assets/94166007/f7856181-52db-4526-87b3-989bac889365)
+![Screenshot (51)](https://github.com/Sucharithachowdary/q-learning/assets/94166007/ae4efb49-4c43-4dc7-84b1-c61f1f516242)
 
 ### State value functions of Monte Carlo method:
 
-![image](https://github.com/Sucharithachowdary/q-learning/assets/94166007/9b182e47-b96d-44f0-a100-6eb2a207a093)
+![Screenshot (52)](https://github.com/Sucharithachowdary/q-learning/assets/94166007/08c94985-6f50-495c-9cb4-fbcb26080ce6)
 
 
 
